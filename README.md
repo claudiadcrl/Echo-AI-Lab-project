@@ -34,10 +34,11 @@ pip install -r requirements.txt⁠
 ```
 **Important!:** before running the project, download the tracks folder:
 - from Drive: https://drive.google.com/drive/folders/1ZUNZARmOHYGRqxIFIndePW-GEwHSTO_F?usp=sharing
-- from our Github repository: 
+- from our Github repository: https://github.com/claudiadcrl/Echo-AI-Lab-project
 
 Run the main file:
 ```bash
 python main.py
 ```
+
 
