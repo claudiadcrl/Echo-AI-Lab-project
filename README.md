@@ -32,7 +32,12 @@ Install packages required:
 ```bash
 pip install -r requirements.txt⁠
 ```
+**Important!:** before running the project, download the tracks folder:
+- from Drive: https://drive.google.com/drive/folders/1ZUNZARmOHYGRqxIFIndePW-GEwHSTO_F?usp=sharing
+- from our Github repository: 
+
 Run the main file:
 ```bash
 python main.py
 ```
+
